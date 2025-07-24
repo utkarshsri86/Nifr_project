@@ -1,4 +1,3 @@
-scikit-learn
 streamlit
 pandas
 seaborn
