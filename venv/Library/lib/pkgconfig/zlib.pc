@@ -1,0 +1,13 @@
+prefix=U:/utkarsh ppt/pythonnew/venv/Library
+exec_prefix=U:/utkarsh ppt/pythonnew/venv/Library
+libdir=U:/utkarsh ppt/pythonnew/venv/Library/lib
+sharedlibdir=U:/utkarsh ppt/pythonnew/venv/Library/lib
+includedir=U:/utkarsh ppt/pythonnew/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

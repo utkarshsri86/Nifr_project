@@ -1,0 +1,102 @@
+Institute ID,Name,City,State,Score,Rank,TLR,RPC,GO,OI,PERCEPTION,Year
+IR-O-U-0456,Indian Institute of Technology Madras,Chennai,Tamil Nadu,85.31,1,81.86,90.67,88.26,62.78,96.16,2020
+IR-O-U-0220,Indian Institute of Science,Bengaluru,Karnataka,84.18,2,82.22,92.16,82.89,52.84,100,2020
+IR-O-I-1074,Indian Institute of Technology Delhi,New Delhi,Delhi,81.33,3,80.59,87.16,77.18,66.41,89.17,2020
+IR-O-U-0306,Indian Institute of Technology Bombay,Mumbai,Maharashtra,80.75,4,79.32,86.46,82.48,54.14,90.97,2020
+IR-O-U-0573,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,75.85,5,68.6,79.73,86.12,59.07,82.21,2020
+IR-O-I-1075,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,74.99,6,75.64,74.76,81.87,55.61,79.43,2020
+IR-O-U-0053,Indian Institute of Technology Guwahati,Guwahati,Assam,68.81,7,74.06,63.55,81.85,62.35,49.09,2020
+IR-O-U-0109,Jawaharlal Nehru University,New Delhi,Delhi,68.76,8,74.98,44.8,100,75.1,53.19,2020
+IR-O-U-0560,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,68.48,9,68.29,67,85.21,64.29,44.17,2020
+IR-O-U-0500,Banaras Hindu University,Varanasi,Uttar Pradesh,62.03,10,70.91,44.89,85.65,58.76,42.84,2020
+IR-O-U-0570,Calcutta University,Kolkata,West Bengal,61.01,11,59.26,48.58,91.03,61.66,42.84,2020
+IR-O-U-0575,Jadavpur University,Kolkata,West Bengal,60.77,12,53.38,52.96,90.39,48.67,59.2,2020
+IR-O-U-0436,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,60.74,13,69.65,52.11,73.66,65.83,29.04,2020
+IR-O-U-0234,Manipal Academy of Higher Education,Manipal,Karnataka,59.96,14,75.44,42.62,75.36,66.21,28.5,2020
+IR-O-U-0042,University of Hyderabad,Hyderabad,Telangana,59.92,15,71.15,42.93,81.18,54.01,40.46,2020
+IR-O-U-0108,Jamia Millia Islamia,New Delhi,Delhi,59.85,16,71.35,38.3,88.52,73.05,19.43,2020
+IR-O-U-0013,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,59.59,17,69.97,48.99,66.96,58.36,46.7,2020
+IR-O-U-0120,University of Delhi,Delhi,Delhi,58.97,18,50.18,55.4,85.21,60.37,42.06,2020
+IR-O-U-0323,Savitribai Phule Pune University,Pune,Maharashtra,58.77,19,67.66,45.48,85.36,56.22,21.41,2020
+IR-O-U-0439,Anna University,Chennai,Tamil Nadu,58.1,20,56,48.61,77.49,52.37,59.85,2020
+IR-O-U-0447,Bharathiar University,Coimbatore,Tamil Nadu,57.32,21,67.47,46.47,75.58,52.82,27.4,2020
+IR-O-U-0205,Indian Institute of Technology (Indian School of Mines),Dhanbad,Jharkhand,56.05,22,52.15,55.69,76.38,56.13,27.95,2020
+IR-O-U-0273,Indian Institute of Technology Indore,Indore,Madhya Pradesh,55.94,23,69.47,47.56,69.7,58.93,10,2020
+IR-O-U-0467,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,55.92,24,60.37,40.88,71.62,64.09,48.08,2020
+IR-O-U-0305,Indian Institute of Science Education & Research Pune,Pune,Maharashtra,55.43,25,69.95,45.05,59.67,60.47,29.58,2020
+IR-O-U-0701,Indian Institute of Technology (BHU) Varanasi,Varanasi,Uttar Pradesh,54.82,26,63.03,42.97,67.68,57.09,37.73,2020
+IR-O-U-0391,Birla Institute of Technology & Science,Pilani,Rajasthan,54.13,27,62.76,40.72,72.48,60.97,24.81,2020
+IR-O-U-0490,Vellore Institute of Technology,Vellore,Tamil Nadu,53.89,28,48.71,54.82,67.26,58.15,35.72,2020
+IR-O-U-0572,Indian Institute of Science Education & Research Kolkata,Mohanpur,West Bengal,53.49,29,68.86,38.92,64.94,54.55,27.12,2020
+IR-O-U-0304,Homi Bhabha National Institute,Mumbai,Maharashtra,53.2,30,82.4,30.44,69.83,48.72,5.06,2020
+IR-O-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,52.54,31,70.97,40.78,55.7,57.39,21.41,2020
+IR-O-U-0357,National Institute of Technology Rourkela,Rourkela,Odisha,51.87,32,56.48,48.96,67.16,48.68,19.43,2020
+IR-O-U-0237,National Institute of Technology Karnataka,Surathkal,Karnataka,51.86,33,57.45,37.5,72.93,56.28,31.64,2020
+IR-O-U-0308,Institute of Chemical Technology,Mumbai,Maharashtra,51.7,34,51.99,48.02,75.33,46.08,20.1,2020
+IR-O-U-0139,Indian Institute of Technology Gandhinagar,Gandhinagar,Gujarat,51.49,35,68.47,36.5,55.42,61.46,27.68,2020
+IR-O-U-0006,Andhra University,Visakhapatnam,Andhra Pradesh,51.24,36,63.77,25.99,86.1,56.86,14.03,2020
+IR-O-U-0107,Jamia Hamdard,New Delhi,Delhi,51.02,37,69.79,28.48,73.16,61.71,7.38,2020
+IR-O-U-0363,Siksha `O` Anusandhan,Bhubaneswar,Odisha,50.97,38,72.43,25.73,71.13,63.78,9.15,2020
+IR-O-U-0378,Indian Institute of Technology Ropar,Rupnagar,Punjab,50.92,39,69.21,31.54,63.27,60.45,20.1,2020
+IR-O-U-0272,Indian Institute of Science Education & Research Bhopal,Bhopal,Madhya Pradesh,50.83,40,68.07,30.91,65.25,70.48,10.42,2020
+IR-O-I-1357,University of Madras,Chennai,Tamil Nadu,50.76,41,65.37,33.16,68.21,55.23,20.43,2020
+IR-O-U-0260,Kerala University,Thiruvananthapuram,Kerala,50.71,42,73.76,19.03,86,51.56,5.06,2020
+IR-O-U-0584,Indian Institute of Engineering Science and Technology,Shibpur,West Bengal,50.41,43,58.92,38.96,65.97,46,32.64,2020
+IR-O-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,50.24,44,67.82,22.59,72.25,76.16,10.42,2020
+IR-O-U-0078,Panjab University,Chandigarh,Chandigarh,50.24,44,50.08,42.83,71.27,54.9,26.27,2020
+IR-O-U-0025,National Institute of Technology Warangal,Warangal,Telangana,49.82,46,61.97,30.19,68.87,59.82,24.21,2020
+IR-O-U-0235,Mysore University,Mysuru,Karnataka,49.75,47,62.99,19.55,92.51,54.45,10.42,2020
+IR-O-U-0476,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,49.4,48,63.86,35.91,65.46,57.76,6,2020
+IR-O-U-0262,Mahatma Gandhi University,Kottayam,Kerala,49.29,49,69.15,30.32,71.21,46.6,5.53,2020
+IR-O-U-0523,King George`s Medical University,Lucknow,Uttar Pradesh,48.91,50,77.94,26.47,61.22,44.84,8.71,2020
+IR-O-I-1480,Thapar Institute of Engineering & Technology,Patiala,Punjab,48.59,51,56.99,38.79,65.75,55.71,11.25,2020
+IR-O-I-1486,Sri Ramachandra Institute of Higher Education And Research,Chennai,Tamil Nadu,48.59,51,76.71,16.92,67.48,60.92,9.15,2020
+IR-O-U-0027,Osmania University,Hyderabad,Telangana,48.54,53,55.95,25.56,86.42,55.22,12.86,2020
+IR-O-U-0222,JSS Academy of Higher Education and Research,Mysuru,Karnataka,48.09,54,70.68,18.74,66.64,69.78,9.58,2020
+IR-O-U-0064,Indian Institute of Technology Patna,Patna,Bihar,48.09,54,67.89,32.37,54.56,52.85,18.06,2020
+IR-O-U-0355,Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,47.96,56,56.97,36.3,59.25,55.31,25.98,2020
+IR-O-U-0331,Tata Institute of Social Sciences,Mumbai,Maharashtra,47.45,57,64.38,11.4,80.01,75.54,11.66,2020
+IR-O-U-0473,S. R. M. Institute of Science and Technology,Chennai,Tamil Nadu,47.27,58,56.48,34.43,67.43,58.58,6.47,2020
+IR-O-U-0377,Indian Institute of Science Education & Research Mohali,Mohali,Punjab,47.19,59,68.47,29.98,43.61,72.82,16.64,2020
+IR-O-U-0136,Gujarat University,Ahmedabad,Gujarat,47.1,60,68.05,13.4,83.9,55.67,3.11,2020
+IR-O-U-0474,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,47.03,61,60.75,30.41,65.23,64.31,2.1,2020
+IR-O-U-0098,Delhi Technological University,New Delhi,Delhi,46.89,62,57.71,28.86,66.91,54.62,20.76,2020
+IR-O-U-0497,Amity University Noida,Gautam Budh Nagar,Uttar Pradesh,46.88,63,50.79,37.48,66.42,62.52,8.71,2020
+IR-O-U-0435,Alagappa University,Karaikudi,Tamil Nadu,46.85,64,63.66,22.69,68.36,51.63,21.09,2020
+IR-O-U-0056,Tezpur University,Tezpur,Assam,46.83,65,62.03,30.34,63.23,49.21,15.54,2020
+IR-O-I-1441,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,46.81,66,65.8,24.29,64.87,66.51,1.58,2020
+IR-O-U-0184,Indian Institute of Technology Mandi,Mandi,Himachal Pradesh,46.56,67,57.22,30.81,64.14,63.26,10,2020
+IR-O-U-0037,Sri Venkateswara University,Tirupati,Andhra Pradesh,46.14,68,61.83,21.53,76.24,48.81,10,2020
+IR-O-U-0589,Visva Bharati,Santiniketan,West Bengal,45.95,69,58.41,27.29,75.58,40.84,10.42,2020
+IR-O-U-0020,Koneru Lakshmaiah Education Foundation University,Vaddeswaram,Andhra Pradesh,45.89,70,65.54,24.52,64,55.66,5.06,2020
+IR-O-U-0410,Malaviya National Institute of Technology,Jaipur,Rajasthan,45.65,71,61.26,33.25,57,55.34,3.61,2020
+IR-O-U-0052,Gauhati University,Guwahati,Assam,45.48,72,59.87,17.04,81.09,55.87,6,2020
+IR-O-U-0329,Symbiosis International,Pune,Maharashtra,45.43,73,70.05,14.11,63.35,72.57,2.61,2020
+IR-O-U-0341,North Eastern Hill University,Shillong,Meghalaya,45.31,74,65.03,15.19,75.6,53.4,7.83,2020
+IR-O-I-1110,Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,45.08,75,75.2,9.71,63.68,63.64,5.06,2020
+IR-O-U-0251,Calicut University,Malappuram,Kerala,44.71,76,66.18,17.39,69.3,53.19,4.58,2020
+IR-O-U-0448,Bharathidasan University,Tiruchirappalli,Tamil Nadu,44.7,77,63.49,28.38,50.92,46.57,22.99,2020
+IR-O-U-0196,University of Kashmir,Srinagar,Jammu and Kashmir,44.67,78,60.25,18.51,79.14,49.47,2.61,2020
+IR-O-U-0389,Banasthali Vidyapith,Banasthali,Rajasthan,44.61,79,52.72,12.82,85.27,75.87,3.11,2020
+IR-O-U-0254,Indian Institute of Science Education & Research Thiruvananthapuram,Thiruvananthapuram,Kerala,44.53,80,61.09,26.45,59.94,47.85,14.79,2020
+IR-O-U-0369,Pondicherry University,Puducherry,Pondicherry,44.48,81,45.97,28.85,73.14,58.52,15.54,2020
+IR-O-U-0642,Shiv Nadar University,Dadri,Uttar Pradesh,44.47,82,68.11,16.4,62.82,60.52,5.06,2020
+IR-O-C-16604,Sri Sivasubramaniya Nadar College of Engineering,Kancheepuram,Tamil Nadu,44.42,83,58.51,27.12,63.11,53.78,7.38,2020
+IR-O-U-0463,Madurai Kamaraj University,Madurai,Tamil Nadu,44.27,84,63.88,26.14,56.9,42.62,16.28,2020
+IR-O-C-37013,PSG College of Technology,Coimbatore,Tamil Nadu,44.17,85,62.42,16.13,60.65,49.93,34.79,2020
+IR-O-U-0202,Birla Institute of Technology,Ranchi,Jharkhand,44.17,85,56.25,28.71,56.04,52.33,22.37,2020
+IR-O-U-0446,Bharath Institute of Higher Education & Research,Chennai,Tamil Nadu,44.03,87,59.45,18.56,66.96,66.89,5.53,2020
+IR-O-U-0376,Guru Nanak Dev University,Amritsar,Punjab,43.81,88,44.31,30.06,77.12,53.04,7.83,2020
+IR-O-U-0253,Cochin University of Science and Technology,Cochin,Kerala,43.71,89,50.14,27.78,67.84,51.36,16.28,2020
+IR-O-U-0195,University of Jammu,Jammu,Jammu and Kashmir,43.61,90,64.78,16.33,72.53,45.63,2.1,2020
+IR-O-N-17,Sawai Man Singh Medical College,Jaipur,Rajasthan,43.5,91,82.87,4.93,61.02,49.59,0,2020
+IR-O-N-10,SVKM`s Narsee Monjee Institute of Management Studies ,Mumbai,Maharashtra,43.07,92,66.87,12.44,64.13,62.44,2.1,2020
+IR-O-U-0530,Motilal Nehru National Institute of Technology,Allahabad,Uttar Pradesh,42.87,93,51.75,26.38,66.33,52.1,9.58,2020
+IR-O-U-0055,National Institute of Technology Silchar,Silchar,Assam,42.76,94,52.19,28.42,64.18,52.18,5.06,2020
+IR-O-U-0318,Mumbai University,Mumbai,Maharashtra,42.45,95,48.08,20.84,77.97,53.61,8.27,2020
+IR-O-U-0577,National Institute of Technology Durgapur,Durgapur,West Bengal,42.26,96,47.46,31.21,63.17,51.24,9.15,2020
+IR-O-U-0295,Datta Meghe Institute of Medical Sciences,Wardha,Maharashtra,42.24,97,73.22,7.13,60.79,59.68,0,2020
+IR-O-I-1361,Bharati Vidyapeeth,Pune,Maharashtra,42.23,98,61.13,12.09,65.73,58.16,12.86,2020
+IR-O-U-0379,Lovely Professional University,Phagwara,Punjab,41.81,99,57.28,16.44,62.61,67.68,4.1,2020
+IR-O-U-0215,"Bangalore University
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ",Bengaluru,Karnataka,41.8,100,65.5,13,57.99,57.2,9.15,2020

@@ -1,0 +1,101 @@
+Institute ID,Name,City,State,Score,Rank,TLR,RPC,GO,OI,PERCEPTION,Year
+IR-O-U-0456,Indian Institute of Technology Madras,Chennai,Tamil Nadu,83.88,1,84.56,83.53,87.13,66.08,94.14,2019
+IR-O-U-0220,Indian Institute of Science,Bengaluru,Karnataka,82.28,2,83.16,89.24,78.57,48.47,100,2019
+IR-O-I-1074,Indian Institute of Technology Delhi,New Delhi,Delhi,78.69,3,78.3,82.98,79.14,58.58,86.14,2019
+IR-O-U-0306,Indian Institute of Technology Bombay,Mumbai,Maharashtra,78.62,4,76.95,84.36,82.31,50.68,86.92,2019
+IR-O-U-0573,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,74.31,5,67.36,76.65,86.17,60.63,78.11,2019
+IR-O-I-1075,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,69.07,6,71.95,69.61,69.96,50.39,75.68,2019
+IR-O-U-0109,Jawaharlal Nehru University,New Delhi,Delhi,68.68,7,76.75,41.85,99.87,75.87,55.27,2019
+IR-O-U-0560,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,67.68,8,67.32,65.08,87.14,61.64,43.66,2019
+IR-O-U-0053,Indian Institute of Technology Guwahati,Guwahati,Assam,65.47,9,76.79,56.58,73.87,60.63,46.34,2019
+IR-O-U-0500,Banaras Hindu University,Varanasi,Uttar Pradesh,64.55,10,69.72,46.48,96.37,57.01,47.28,2019
+IR-O-U-0042,University of Hyderabad,Hyderabad,Telangana,61.85,11,74.81,43.78,83.64,58.77,36.71,2019
+IR-O-U-0570,Calcutta University,Kolkata,West Bengal,60.87,12,62.26,47.1,91.54,60.14,37.39,2019
+IR-O-U-0575,Jadavpur University,Kolkata,West Bengal,60.53,13,54.4,54.89,90.28,44.95,51.83,2019
+IR-O-U-0439,Anna University,Chennai,Tamil Nadu,60.35,14,56.39,54.1,78.07,53.16,62.72,2019
+IR-O-U-0436,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,59.22,15,73.03,43.77,70.28,70.23,31.01,2019
+IR-O-U-0234,Manipal Academy of Higher Education,Manipal,Karnataka,58.5,16,77.91,38.31,69.71,66.78,30.21,2019
+IR-O-U-0323,Savitribai Phule Pune University,Pune,Maharashtra,58.4,17,69.26,44.42,86.04,54.34,16.55,2019
+IR-O-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,58.36,18,76.69,35.38,85.67,57.56,18.46,2019
+IR-O-U-0108,Jamia Millia Islamia,New Delhi,Delhi,58.07,19,73.74,32.04,88.53,71.97,14.26,2019
+IR-O-U-0120,University of Delhi,Delhi,Delhi,57.59,20,47.87,53.79,87.18,55.4,41.11,2019
+IR-O-U-0447,Bharathiar University,Coimbatore,Tamil Nadu,57.23,21,66.93,45.04,76.53,52.11,31.2,2019
+IR-O-U-0013,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,56.92,22,70.91,40.82,67.47,58.77,40.33,2019
+IR-O-U-0305,Indian Institute of Science Education & Research Pune,Pune,Maharashtra,54.48,23,70.53,42.05,57.13,60.11,32.75,2019
+IR-O-U-0467,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,54.32,24,61.25,34.72,70.89,62.89,50.61,2019
+IR-O-U-0205,Indian Institute of Technology (Indian School of Mines) Dhanbad,Dhanbad,Jharkhand,53.4,25,54.72,50.98,76,39.42,25.54,2019
+IR-O-S-8972,Indian Institute of Management Calcutta,Kolkata,West Bengal,52.68,26,78.8,17.12,62.55,67.62,46.34,2019
+IR-O-U-0308,Institute of Chemical Technology,Mumbai,Maharashtra,52.62,27,54.67,48.4,72.61,51.49,20.28,2019
+IR-O-U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi,Varanasi,Uttar Pradesh,52.49,28,62.09,39.44,68.32,54.48,29.2,2019
+IR-O-U-0006,Andhra University,Visakhapatnam,Andhra Pradesh,52.11,29,69.36,23.16,86.61,55.73,14.55,2019
+IR-O-U-0304,Homi Bhabha National Institute,Mumbai,Maharashtra,51.95,30,83.26,25.24,71.18,47.29,4.33,2019
+IR-O-U-0107,Jamia Hamdard,New Delhi,Delhi,51.73,31,69.64,29.92,74.12,63.52,6.86,2019
+IR-O-U-0490,Vellore Institute of Technology,Vellore,Tamil Nadu,51.44,32,48.7,47.63,66.55,57.02,35.31,2019
+IR-O-I-1357,University of Madras,Chennai,Tamil Nadu,51.34,33,64.29,33.28,68.26,54.18,30.01,2019
+IR-O-U-0078,Panjab University,Chandigarh,Chandigarh,51.25,34,51.02,44.82,72.5,52.89,27.09,2019
+IR-O-U-0260,Kerala University,Thiruvananthapuram,Kerala,51.21,35,74.8,18.84,85.7,51.2,8.59,2019
+IR-O-U-0584,Indian Institute of Engineering Science and Technology,Shibpur,West Bengal,50.96,36,62.98,36.74,66.47,47.19,30.41,2019
+IR-O-U-0272,Indian Institute of Science Education & Research Bhopal,Bhopal,Madhya Pradesh,50.88,37,68.8,31.49,65.92,68.21,7.91,2019
+IR-O-U-0357,National Institute of Technology Rourkela,Rourkela,Odisha,50.75,38,54.23,45.65,68.68,45.97,24.4,2019
+IR-O-U-0391,Birla Institute of Technology & Science,Pilani,Rajasthan,50.53,39,56.68,34.14,73.06,52.26,34.41,2019
+IR-O-U-0572,Indian Institute of Science Education & Research Kolkata,Mohanpur,West Bengal,50.44,40,69.99,41.21,45.09,55.69,24.86,2019
+IR-O-U-0363,Siksha `O` Anusandhan,Bhubaneswar,Odisha,50.31,41,72.96,21.17,69.84,61.04,20.02,2019
+IR-O-U-0523,King George`s Medical University,Lucknow,Uttar Pradesh,49.91,42,79.82,25.85,61.38,53.38,5.8,2019
+IR-O-U-0027,Osmania University,Hyderabad,Telangana,49.86,43,58.2,24.95,92.09,55.68,9.26,2019
+IR-O-U-0184,Indian Institute of Technology Mandi,Mandi,Himachal Pradesh,49.4,44,67.62,28.36,64.56,65.68,11.2,2019
+IR-O-I-1480,Thapar Institute of Engineering and Technology (Deemed-to-be-university),Patiala,Punjab,49.27,45,62.13,36.3,65.31,56.58,10.24,2019
+IR-O-U-0355,Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,48.73,46,64.64,32.91,55.57,57.61,25.99,2019
+IR-O-U-0435,Alagappa University,Karaikudi,Tamil Nadu,48.54,47,66.72,22.18,71.17,49.75,26.65,2019
+IR-O-U-0056,Tezpur University,Tezpur,Assam,48.47,48,66.92,30.1,63.47,50.99,15.71,2019
+IR-O-U-0262,Mahatma Gandhi University,Kottayam,Kerala,48.08,49,66.49,26.97,72.39,51.98,3.58,2019
+IR-O-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,47.97,50,66.01,18.1,71.7,69.38,14.55,2019
+IR-O-U-0139,Indian Institute of Technology Gandhinagar,Gandhinagar,Gujarat,47.85,51,61.95,31.43,56.23,61.6,24.17,2019
+IR-O-U-0473,SRM Institute of Science and Technology,Chennai,Tamil Nadu,47.8,52,56.67,26.51,78.07,58.09,14.26,2019
+IR-O-U-0237,National Institute of Technology Karnataka,Surathkal,Karnataka,47.37,53,51.32,32.27,71.35,50.89,29.4,2019
+IR-O-I-1486,Sri Ramachandra Institute of Higher Education and Research,Chennai,Tamil Nadu,47.34,54,73.84,16.57,70.49,55.04,6.15,2019
+IR-O-U-0222,JSS Academy of Higher Education and Research,Mysore,Karnataka,46.97,55,70.32,15.74,65.48,70.26,10.24,2019
+IR-O-U-0331,Tata Institute of Social Sciences,Mumbai,Maharashtra,46.82,56,65.17,9.97,79.76,71.16,12.14,2019
+IR-O-U-0446,Bharath Institute of Higher Education & Research,Chennai,Tamil Nadu,46.32,57,68.09,17.76,64.96,72.53,3.19,2019
+IR-O-U-0064,Indian Institute of Technology Patna,Patna,Bihar,46.28,58,66.93,29.8,54.37,51.43,12.45,2019
+IR-O-U-0589,Visva Bharati,Santiniketan,West Bengal,46.27,59,60.65,26.07,74.79,41.39,11.52,2019
+IR-O-U-0554,G. B. Pant Universtiy of Agriculture and Technology,Pantnagar,Uttarakhand,46.09,60,71.58,15.49,75.65,43.02,5.44,2019
+IR-O-U-0025,National Institute of Technology Warangal,Warangal,Telangana,46.06,61,57.88,24.71,67.97,57.45,19.51,2019
+IR-O-U-0341,North Eastern Hill University,Shillong,Meghalaya,45.99,62,67.86,14.53,75.72,54.75,6.51,2019
+IR-O-U-0476,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,45.8,63,55.55,32.38,65.16,57.13,6.86,2019
+IR-O-U-0474,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,45.58,64,59.17,27.15,65.86,62.79,2.41,2019
+IR-O-U-0052,Gauhati University,Guwahati,Assam,45.57,65,66.09,18.08,74.7,44.24,9.59,2019
+IR-O-U-0377,Indian Institute of Science Education & Research Mohali,Mohali,Punjab,45.43,66,66.43,25.27,45.39,70.98,17.38,2019
+IR-O-I-1441,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,45.42,67,69.98,17.64,62.16,67.15,0,2019
+IR-O-U-0485,Tamil Nadu Agricultural University,Coimbatore,Tamil Nadu,45.41,68,74.72,11.58,69.31,45.1,11.52,2019
+IR-O-U-0463,Madurai Kamraj University,Madurai,Tamil Nadu,45.2,69,63.94,28.11,57.1,41.36,20.28,2019
+IR-O-I-1110,Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,45.11,70,77.38,7.61,62.46,63.71,7.56,2019
+IR-O-U-0098,Delhi Technological University,New Delhi,Delhi,44.89,71,55.99,24.33,66.89,54.61,19.51,2019
+IR-O-U-0037,Sri Venkateswara University,Tirupati,Andhra Pradesh,44.88,72,62.46,23.6,69.63,44.79,6.51,2019
+IR-O-U-0369,Pondicherry University,Puducherry,Pondicherry,44.88,72,47.92,26.63,73.31,59.3,19.25,2019
+IR-O-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,44.7,74,67.17,19.07,63.8,57.15,3.58,2019
+IR-O-U-0381,Punjab Agricultural University,Ludhiana,Punjab,44.66,75,76.97,19.74,56.22,40.93,3.19,2019
+IR-O-C-37013,PSG College of Technology,Coimbatore,Tamil Nadu,44.46,76,63.69,12.61,61.03,49.95,43.66,2019
+IR-O-U-0642,Shiv Nadar University,Dadri,Uttar Pradesh,44.45,77,69.46,14.05,61.53,64.61,6.15,2019
+IR-O-C-16604,Sri Sivasubramaniya Nadar College of Engineering,Kancheepuram,Tamil Nadu,44.35,78,62.4,22.97,63.44,52.92,7.56,2019
+IR-O-U-0196,University of Kashmir,Srinagar,Jammu and Kashmir,44.19,79,59.82,18.33,79.2,47.36,1.63,2019
+IR-O-U-0235,Mysore University,Mysore,Karnataka,44.06,80,57.3,18.15,78.43,52.67,4.7,2019
+IR-O-U-0376,Guru Nanak Dev University,Amritsar,Punjab,43.69,81,46.51,29.38,74.72,54.02,5.8,2019
+IR-O-U-0329,Symbiosis International,Pune,Maharashtra,43.65,82,70.01,9.43,61.03,72.88,3.19,2019
+IR-O-N-10,SVKM`s Narsee Monjee Institute of Management Studies ,Mumbai,Maharashtra,43.63,83,68.83,11.68,64.22,65.21,1.22,2019
+IR-O-U-0497,Amity University,Gautam Budh Nagar,Uttar Pradesh,43.53,84,50.11,28.3,65.48,61.94,7.22,2019
+IR-O-U-0202,Birla Institute of Technology,Ranchi,Jharkhand,43.49,85,54.72,29.47,56.97,44.88,23.47,2019
+IR-O-U-0448,Bharathidasan University,Tiruchirappalli,Tamil Nadu,43.41,86,60.74,29.05,48.92,42.77,24.17,2019
+IR-O-U-0389,Banasthali Vidyapith,Banasthali,Rajasthan,43.22,87,50.4,11.67,84.87,72.01,4.33,2019
+IR-O-I-1361,Bharati Vidyapeeth,Pune,Maharashtra,42.89,88,63.91,11.42,64.49,60.23,13.66,2019
+IR-O-U-0159,Chaudhary Charan Singh Haryana Agricultural University,Hisar,Haryana,42.36,89,76.87,6.91,56.41,57.5,2.02,2019
+IR-O-U-0251,Calicut University,Malappuram,Kerala,42.22,90,56.32,16.46,71.53,53.45,7.22,2019
+IR-O-C-41593,College of Engineering,Pune,Maharashtra,42.11,91,56.36,20.52,61.36,52.28,15.42,2019
+IR-O-U-0295,Datta Meghe Institute of Medical Sciences,Wardha,Maharashtra,41.73,92,75.46,3.16,60.57,59.48,0.82,2019
+IR-O-U-0577,National Institute of Technology Durgapur,Durgapur,West Bengal,41.59,93,47.06,28.96,64.01,47.7,12.14,2019
+IR-O-U-0253,Cochin University of Science and Technology,Cochin,Kerala,41.42,94,47.22,26.88,64.8,47.56,14.84,2019
+IR-O-U-0099,Guru Gobind Singh Indraprastha University,New Delhi,Delhi,41.21,95,56.39,18.96,64.62,53.19,3.58,2019
+IR-O-U-0123,Anand Agricultural University,Anand,Gujarat,41.2,96,69.48,12.25,59.12,41.45,7.22,2019
+IR-O-U-0470,Periyar University,Salem,Tamil Nadu,40.99,97,52.3,20.74,59.13,53.26,19.25,2019
+IR-O-U-0225,KLE Academy of Higher Education and Research,Belagavi,Karnataka,40.92,98,71.23,8.73,49.52,66.05,4.33,2019
+IR-O-U-0239,NITTE,Mangaluru,Karnataka,40.88,99,70.38,9.31,48.61,66.11,6.51,2019
+IR-O-U-0487,Tamil Nadu Veterinary & Animal Sciences University,Chennai,Tamil Nadu,40.88,99,70.98,8.01,62.85,44.12,2.02,2019

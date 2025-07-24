@@ -1,0 +1,12 @@
+prefix=U:/utkarsh ppt/pythonnew/venv/Library
+exec_prefix=U:/utkarsh ppt/pythonnew/venv/Library
+libdir=U:/utkarsh ppt/pythonnew/venv/Library/lib
+includedir=U:/utkarsh ppt/pythonnew/venv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: -lstdc++ 
+Requires.private: 
+Cflags: -I${includedir} 
