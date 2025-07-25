@@ -19,14 +19,14 @@ st.markdown("Analyzing Indian educational institute rankings across multiple yea
 
 # File paths
 csv_files = [
-    r"U:\utkarsh ppt\pythonnew\venv\PROJECTNIFR\Book1.csv",
-    r"U:\utkarsh ppt\pythonnew\venv\PROJECTNIFR\Book2.csv",
-    r"U:\utkarsh ppt\pythonnew\venv\PROJECTNIFR\Book3.csv",
-    r"U:\utkarsh ppt\pythonnew\venv\PROJECTNIFR\Book4.csv",
-    r"U:\utkarsh ppt\pythonnew\venv\PROJECTNIFR\Book5.csv",
-    r"U:\utkarsh ppt\pythonnew\venv\PROJECTNIFR\Book6.csv",
-    r"U:\utkarsh ppt\pythonnew\venv\PROJECTNIFR\Book7.csv",
-    r"U:\utkarsh ppt\pythonnew\venv\PROJECTNIFR\Book8.csv"
+    r"Book1.csv",
+    r"Book2.csv",
+    r"Book3.csv",
+    r"Book4.csv",
+    r"Book5.csv",
+    r"Book6.csv",
+    r"Book7.csv",
+    r"Book8.csv"
 ]
 
 @st.cache_data
