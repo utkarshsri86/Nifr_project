@@ -14,8 +14,8 @@ def format_year_axis(ax):
 st.set_page_config(page_title="NIRF Data Analysis", layout="wide")
 
 # Title
-st.title("🏛️ NIRF Institutional Ranking Dashboard")
-st.markdown("Analyzing Indian educational institute rankings across multiple years")
+st.title("🏛️ NIRF Ranking Dashboard: Track, Compare & Predict")
+st.markdown("Explore trends, scores, and rankings of Indian educational institutions")
 
 # File paths
 csv_files = [
