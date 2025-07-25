@@ -19,14 +19,14 @@ st.markdown("Analyzing Indian educational institute rankings across multiple yea
 
 # File paths
 csv_files = [
-    r"Book1.csv",
-    r"Book2.csv",
-    r"Book3.csv",
-    r"Book4.csv",
-    r"Book5.csv",
-    r"Book6.csv",
-    r"Book7.csv",
-    r"Book8.csv"
+    "Book1.csv",
+    "Book2.csv",
+    "Book3.csv",
+    "Book4.csv",
+    "Book5.csv",
+    "Book6.csv",
+    "Book7.csv",
+    "Book8.csv"
 ]
 
 @st.cache_data
